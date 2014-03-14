@@ -11,11 +11,11 @@ pygments: true
 title : Mister Cantini
 tagline: Just a tagline....
 author : Jason Andrew Brown
-  name : Jason Brown
-  email : jasonandrewbrown@me.com
-  github : mistercantini
-  twitter : @jasonb5232
-  feedburner : feedname
+name : Jason Brown
+email : jasonandrewbrown@me.com
+github : mistercantini
+twitter : jasonb5232
+feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
