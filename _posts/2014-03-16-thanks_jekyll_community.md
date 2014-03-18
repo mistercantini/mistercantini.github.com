@@ -5,6 +5,7 @@ layout: post
 slug: thanks-jekyll-community
 title: Thanks Jekyll Community
 summary: Thanks to Jekyll Community
+image: jekyll.png
 tags:
 - jekyll
 ---
