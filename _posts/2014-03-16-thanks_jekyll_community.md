@@ -2,9 +2,9 @@
 comments: true
 date: 2014-03-16 20:23:00
 layout: post
-slug: thanks-jekyll-community
-title: Thanks Jekyll Community
-summary: Thanks to Jekyll Community
+slug: My Jekyll Journey
+title: My Jekyll Journey
+summary: My journey on setting up a blog on Github using Jekyll
 image: jekyll.png
 tags:
 - jekyll
