@@ -26,10 +26,10 @@ A quick search and I found the Jekyll Bootstrap [Jekyll Bootstrap][].  Eureka!  
 
 #### Other Links
 
-[Andrew Munsell][]: Jekyll by example tutorial
-[Alex Pearce][]: Searching in Jekyll
-[Development Seed][]: So some additional things that can be done, that I doubt I will get to
-[David Ensinger][]: Using rake and deploying to Git.  I'm not this advanced yet, but will follow back up on this one.
+* [Andrew Munsell][]: Jekyll by example tutorial
+* [Alex Pearce][]: Searching in Jekyll
+* [Development Seed][]: So some additional things that can be done, that I doubt I will get to
+* [David Ensinger][]: Using rake and deploying to Git.  I'm not this advanced yet, but will follow back up on this one.
 
 And last but not least, the place I wish I would of found initially, [Jekyll][] on Github.
 
